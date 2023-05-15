@@ -10,5 +10,6 @@ Schematic Connection:
 
 Flow Chart:
 
-![IISc_Flowchart](https://github.com/Swagath18/Automatic_Door_Security_system-using_ARM_controller/assets/115916408/871c67d2-d35b-4f99-a327-c837402ede51)
+![image](https://github.com/Swagath18/Automatic_Door_Security_system-using_ARM_controller/assets/115916408/b44e5585-9591-40f8-8821-e124d9bf3771)
+
 
