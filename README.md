@@ -13,3 +13,9 @@ Flow Chart:
 ![image](https://github.com/Swagath18/Automatic_Door_Security_system-using_ARM_controller/assets/115916408/b44e5585-9591-40f8-8821-e124d9bf3771)
 
 
+Prototype:
+
+![image](https://github.com/Swagath18/Automatic_Door_Security_system-using_ARM_controller/assets/115916408/5dd7f440-249b-4589-a617-1e0d0dd27b79)
+
+
+
